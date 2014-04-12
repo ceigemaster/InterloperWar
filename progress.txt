@@ -1,0 +1,61 @@
+4/9/2014
+Additions:
+   -Console module: Useful for debugging
+   -MainMenu module: Handles the start of the game
+   -AssetsMod module: Handles assets for the game
+   -An icon to be repackaged with the .exe
+   -Geography Speculations to aid in the construction of the geography of Hyrule
+
+Edits:
+
+Removals:
+
+Notes:
+   -The background for the Main Menu and Options Menu needs to be changed eventually to better represent the game
+   -The icon also needs to be changed eventually to better represent the game
+
+4/10/2014
+Additions:
+   -Added a tutorials folder to introduce new partners to the engine and code
+   -Added a TorqueScript syntax guide in the tutorials folder
+   -Added a guide to the binary number system in the tutorials folder
+   -Committed the readme.md, license.md, and .gitignore to Github
+   -Copied the relevant issues from the Master Torque2D Repository to our fork of the Torque2D engine
+
+Edits:
+   -Edited the DarkInterlopers module.taml file, it listed a dependency for ToyAssets, changed it to the correct AssetsMod
+
+Removals:
+
+Notes:
+   -What will the DarkInterlopers module be for?
+   -Research the ray casting mentioned in the syntax tutorial document
+   -Closer to the end of development, remember to update the readme, license, and .gitignore on Github
+   -If we encounter any issues with the game, and we're sure it's not the code, check the listed issues for our engine on Github
+   -Find a legal way to sell this game
+
+4/11/2014
+Additions:
+   -Added a simple guide to familiarize users with the engine
+
+Edits:
+
+Removals:
+
+Notes:
+   -3engine needs to be updated with more VisualStudio functions later
+
+4/12/2014
+Additions:
+   -Added a guide to the module system of Torque
+
+Edits:
+   -Renamed the game "The Interloper War"
+
+Removals:
+   -VisualStudio solution for tutorials
+   -The DarkInterlopers module
+
+Notes:
+   -Need a more in-depth guide of TAML, the asset system, and the module system
+   -There may still be some references to the old title "Dark Interlopers" in the engine, those need to be changed eventually
