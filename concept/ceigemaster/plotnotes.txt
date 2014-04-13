@@ -2,22 +2,29 @@ Deku evolved from Forest Octoroks
 Dark Interlopers come from the Sheikah
 The Interloper War and the Hyrulean Civil War are one and the same
 The Fused Shadow was forged in the Sacred Flames with the Pure Metals and Majora's Mask
+	-the first sacred flame (Farore's Flame) is in the Ancient Cistern hidden in the Lost Woods
+	-the second sacred flame (Nayru's Flame) is in the Sandship hidden in the Gerudo Desert
+	-the third sacred flame (Din's Flame) is in the Fire Sanctuary (underneath the fire temple) 
 Hylia is the Goddess of Time
 Ocarina of Time is made of Timeshift Stones
 The Wind Tribe are descendents of the people who remained in Skyloft when Hyrule was founded, they resemble Groose
 The Oocca are descendents of the Loftwings and the City in the Sky is the ruins of Skyloft
 River Zora (or Zola) are a hostile sect of the Zora race
-Skull Kid can travel between worlds (Hyrule/Termina)
-The Minish Door, the link to the Minish Realm, opens only once every hundred years
 	-why they are hostile is unknown, we will have to make up something
 	-disease maybe? they do seem physiologically different
+Skull Kid can travel between worlds (Hyrule/Termina)
+The Minish Door, the link to the Minish Realm, opens only once every hundred years
 WTF Chamber of Giants?
 Feirce Deity-Majora Relation?
 The province of Ordona is not considered part of Hyrule
+   -maybe the borders are closed during the Hyrulean Civil War?
 The Terminians falsely worship the Four Giants as gods after they are saved from Skull Kid's mischief, this angers the Godesses
 Volvagia is the Guardian of Death Mountain, much like the Deku Tree is to the Kokiri Forest, he turns evil at some point for some reason
+The Sheikah can use the Mask of Truth for mind control
+   -plot device to explain switching between playable characters?
 Multiplayer?
 Party System?
+The Mogma have gone extinct?
 Enemies
 	Moblin
 	Bokoblin
@@ -26,6 +33,11 @@ Enemies
 	Iron Knuckle
 	Stalchild
 	Poe
+	Skulltula
+	Keese
+	Deku Baba
+	ChuChu
+	Lizalfos
 
 Species
 	Kokiri

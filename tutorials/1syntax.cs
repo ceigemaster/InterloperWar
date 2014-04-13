@@ -14,7 +14,7 @@
  * -Commenting
 */
 
-// Create test variable with a temporary variable
+// Create test variable with a local variable
 %testVariable = 3;
 
 //============================Semi-colons==================================
@@ -137,7 +137,7 @@ function setPlayerName()
 
 //============================Data Types===================================
 
-// TorqueScript implicitly supports several variable data-types: numbers, strings, booleans, and arrays and vectors
+// TorqueScript implicitly supports several variable data-types: numbers, strings, booleans, arrays, and vectors
 
 //============================Numeric Variables============================
 

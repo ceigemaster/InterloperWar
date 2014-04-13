@@ -59,3 +59,14 @@ Removals:
 Notes:
    -Need a more in-depth guide of TAML, the asset system, and the module system
    -There may still be some references to the old title "Dark Interlopers" in the engine, those need to be changed eventually
+
+4/13/2014
+Additions:
+   -Added a guide to handling Input
+
+Edits:
+   -Fixed some grammatical errors in 4module and 1syntax
+
+Removals:
+
+Notes:
