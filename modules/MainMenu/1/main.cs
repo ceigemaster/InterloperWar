@@ -37,7 +37,17 @@ function StartGameButton::onClick(%this)
 {
     // This group doesn't exist, just here for example.
     // We could load up a group this way to start the game.
-    ModuleDatabase.loadGroup("gameStartGroup");
+    ModuleDatabase.loadGroup("gameInit");
+    // Removes the Options Menu from the canvas
+    Canvas.popDialog(OptionsDialog);
+}
+
+// Adding command for DebugButton.
+// This says that the function will be executed upon the mouse left click of this button
+function DebugButton::onClick(%this)
+{
+    // Loads the debug group for debugging
+    ModuleDatabase.loadGroup("debug");
     // Removes the Options Menu from the canvas
     Canvas.popDialog(OptionsDialog);
 }

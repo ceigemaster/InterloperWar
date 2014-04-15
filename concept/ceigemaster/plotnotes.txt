@@ -16,6 +16,13 @@ Skull Kid can travel between worlds (Hyrule/Termina)
 The Minish Door, the link to the Minish Realm, opens only once every hundred years
 WTF Chamber of Giants?
 Feirce Deity-Majora Relation?
+	-Feirce Deity = Terminian Hylia?
+	-Majora = Terminian Demise?
+The Interlopers help the Ancient Tribe seal Majora into a mask
+	-They try to use the Mask and the Stone Tower to enter the Sacred Realm
+	-The Feirce Deity stops them
+	-The Interlopers decide Majora's power alone is not enough
+	-They resolve to create the Fused Shadow
 The province of Ordona is not considered part of Hyrule
    -maybe the borders are closed during the Hyrulean Civil War?
 The Terminians falsely worship the Four Giants as gods after they are saved from Skull Kid's mischief, this angers the Godesses
@@ -25,6 +32,62 @@ The Sheikah can use the Mask of Truth for mind control
 Multiplayer?
 Party System?
 The Mogma have gone extinct?
+Hylia founded Clock Town to aid the Hero of Time in the future
+	-The people's worship of her and of time allows Link to also control time in Termina
+	-Clock Tower is a temple to Hylia, and a link to Hyrule
+	-Time flows differently inside the Clock Tower
+Termina will also be in the past
+	-the Ikana Kingdom will still be standing
+		-Captain Keeta is the leader of the army
+		-Igos du Ikana is the king
+		-Flat and Sharp are royal composers
+	-Garo spies have been sent to infiltrate Ikana
+		-the Gerudo pirates have smuggled them in for pay from the Garo nation
+		-the map will be expanded to include the Garo nation
+	-The Ancient Tribe is an enemy to the kingdom of Ikana
+		-Their people are called Moushuu -- japanese for deep-rooted delusion
+	-The stone tower will still have the ancient tribe as its inhabitants
+	-snowhead will not be frozen over
+	-the swamp will not be poisonous
+	-the sea will be clear
+Happy Mask Salesman is evil
+	-motive for wanting Majora's Mask?
+	-travelling to Termina at the beginning of Majora's Mask to uncover the Mask's secrets?
+	-where does he get his control over time?
+Origin of the Terminian Mirror Shield?
+Confirmed Places:
+	Termina:
+		Clock Town
+		Termina Field
+		Romani Ranch
+		Woodfall
+		Deku Palace
+		Snowhead
+		Goron Shrine
+		Ikana Valley
+		Stone Towers
+		Great Bay
+		Zora Hall
+		Pirate Fortress
+	Hyrule:
+		Hyrule Castle
+		Castle Town
+		Hyrule Field
+		Lon Lon Ranch
+		Kakariko Village
+		Death Mountain
+		Fire Sanctuary?
+		Kokiri Forest
+		Lost Woods
+		Ancient Cistern?
+		Gerudo Desert
+		Gerudo Village
+		Sandship?
+		Lake Hylia
+		Zora Sanctuary
+		Zora River
+		
+		
 Enemies
 	Moblin
 	Bokoblin
@@ -38,6 +101,10 @@ Enemies
 	Deku Baba
 	ChuChu
 	Lizalfos
+	ReDead
+		-press "A" 15 times in 2.5 seconds to escape
+	Gibdos
+	ReDead Knight
 
 Species
 	Kokiri

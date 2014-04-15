@@ -1,0 +1,10 @@
+<ModuleDefinition
+	ModuleId="Controls"
+	VersionId="1"
+	Description="Controls the game's controls!"
+	Dependencies="AppCore=1"
+	Group="gameBase"
+	ScriptFile="main.cs"
+	CreateFunction="create"
+	DestroyFunction="destroy">
+</ModuleDefinition>

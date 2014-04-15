@@ -1,5 +1,7 @@
 # Dev Files #
 ###################
+*.cs~
+*.taml~
 *.xcworkspace
 *.xcuserdatad
 .LSOverride
@@ -21,8 +23,8 @@
 *.tmp
 Torque2D.app
 Torque2D_DEBUG.app
-DarkInterlopers.exe
-DarkInterlopers_DEBUG.exe
+interlopers.exe
+interlopers_DEBUG.exe
 Torque2DGame.app
 Torque2DGame_Debug.app
 linkmap.txt

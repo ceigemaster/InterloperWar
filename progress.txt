@@ -70,3 +70,19 @@ Edits:
 Removals:
 
 Notes:
+
+4/14/2014
+   -Added a guide to Behaviors
+   -Added LordTestWizard module to help with testing
+   -Added alot of music to concept/ceigemaster
+Edits:
+   -edited the .gitignore to ignore temporary backup files created by windows
+
+Removals:
+   -Emptied AssetsMod of all unused assets
+
+Notes:
+   -Was originally going to just be TestWizard, but there was a naming conflict within the engine
+   -The naming conflict still exists, perhaps because we are defining an animated sprite in the wrong way
+   -LordTestWizard is far too big, his other four animations aren't set, and his WalkWest animation plays even while idle
+   -LordTestWizard was created from the DeadlyReef module (T2D Master), and as such still contains some references to it

@@ -1,0 +1,4 @@
+<AudioAsset
+    AssetName="LordTestWizardDeathSound"
+    AssetAutoUnload="0"
+    AudioFile="LordTestWizardDeathSound.wav" />

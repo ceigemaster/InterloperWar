@@ -45,11 +45,14 @@
 // You may add audio files to inspire the sounds of the game
 // You may add music to inspire the soundtrack for the game
 // You may add text documents to describe plot aspects you may want to include
+// Always keep track of exactly where you get the files you add to your concept folder
+// This way we can credit the necessary artists when the game is released
 // Ideas may or may not be added to the game depending on whether it is relevant, practical, or possible
 // Any ideas that will not be added, will be removed from the concept folder
 // Everybody on the team should have their own subdirectory in the concept folder labelled by their username
 // Before a concept is added to the game, a majority of members must agree on it
 // In special circumstances, the producer can override all votes and choose to include or not include concepts
+// Take the time to look through concept/ceigemaster to get some ideas of things that might be in the game
 
 //============================Tutorials====================================
 

@@ -48,7 +48,7 @@ function AppCore::create( %this )
     ModuleDatabase.loadGroup("gameBase");
     // Modules can also be explicitly loaded if they do not fall into the gameBase group
     // This is where the "Mods" for the game will be
-    // ModuleDatabase.loadExplicit("");
+    //ModuleDatabase.loadExplicit("modNameHere");
 }
 
 //-----------------------------------------------------------------------------

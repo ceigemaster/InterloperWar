@@ -29,6 +29,26 @@
         groupNum="-1"
         useMouseEvents="1" />
 
+    <!-- Debug-->
+    <GuiButtonCtrl
+    Name="DebugButton"
+    	Profile="BlueButtonProfile"
+    Text="Debug"
+    canSaveDynamicFields="0"
+        isContainer="0"
+        HorizSizing="relative"
+        VertSizing="relative"
+    Position="412 399"
+    Extent="200 30"
+    MinExtent="100 15"
+        canSave="1"
+        Visible="1"
+        Active="1"
+        hovertime="1000"
+        groupNum="-1"
+        useMouseEvents="1" />
+    
+
     <!-- Main Menu-->
     <GuiButtonCtrl
     Name="MainMenuButton"
@@ -39,7 +59,7 @@
         isContainer="0"
         HorizSizing="relative"
         VertSizing="relative"
-    Position="412 399"
+    Position="412 429"
     Extent="200 30"
     MinExtent="100 15"
         canSave="1"

@@ -1,0 +1,8 @@
+<ImageAsset
+    AssetName="LordTestWizardSprite"
+    imageFile="LordTestWizard.png"
+    cellCountX="8"
+    cellCountY="8"
+    cellWidth="64"
+    cellHeight="64"
+	 />

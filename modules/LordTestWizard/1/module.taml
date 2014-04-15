@@ -1,0 +1,10 @@
+<ModuleDefinition
+	ModuleId="LordTestWizard"
+	VersionId="1"
+	Description="The Mighty Test Wizard has offered us his aid"
+	Dependencies="AppCore=1,Controls=1,AssetsMod=1"
+	Group="debug"
+	ScriptFile="main.cs"
+	CreateFunction="create"
+	DestroyFunction="destroy">
+</ModuleDefinition>
